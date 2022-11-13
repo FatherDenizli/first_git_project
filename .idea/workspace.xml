@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad22c99-690b-46e5-922d-0dfe49856bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyFirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
